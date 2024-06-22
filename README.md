@@ -2,7 +2,7 @@
 # <img src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt="Logo" height="30"> Hey! Nice to see you.
 
 # 💫 About Me:
-👨‍💻 I’m currently learning Mern Stack Development.<br>💬 Ask me about Javascript, React.js, Node.js or any general software development questions<br>⚡ A fun fact is that I really enjoy listening music in my free time.
+👨‍💻 I’m currently learning Mern Stack Development.<br>💬 Ask me about Javascript, React.js, Node.js or any general software development questions<br>⚡ A fun fact is that I really enjoy playing chess free time.
 
 
 ## 🌐 Socials:
