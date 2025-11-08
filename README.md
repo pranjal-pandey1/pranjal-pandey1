@@ -75,19 +75,6 @@ A collection of my experiments while learning full-stack development — small p
 
 ---
 
-### 📈 GitHub Highlights <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/graph.gif" width="25px">
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pranjal-pandey1&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal-pandey1&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-pandey1&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Let's Connect <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/handshake.gif" width="30px">
 
 <p align="center">
@@ -100,7 +87,6 @@ A collection of my experiments while learning full-stack development — small p
 
 ### ⚡ Quick Note  
 
-I believe great software isn’t just about writing code — it’s about solving problems with clarity and curiosity.  
 Every repository here reflects something I’ve learned, improved, or dreamed to build.  
 
 ✨ *Thanks for stopping by — feel free to explore, fork, or reach out!*  
