@@ -1,15 +1,55 @@
-<!-- README.md -->
-# <img src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt="Logo" height="30"> Hey! Nice to see you.
+# Hi there, I'm Pranjal Pandey 👋  
 
-# 💫 About Me:
-👨‍💻 I’m currently learning Mern Stack Development.<br>💬 Ask me about Javascript, React.js, Node.js or any general software development questions<br>⚡ A fun fact is that I really enjoy playing chess free time.
+💻 **Aspiring Software Developer | Java | MERN | AI & ML Enthusiast**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranjal_pandey._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-pandey-693743216) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranjalP_) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+🚀 Passionate about building intelligent systems and impactful web solutions.  
+🎯 Currently learning **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development (MERN Stack)**.  
+🌱 Exploring projects in **computer vision**, **blockchain**, and **IoT automation**.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pranjal-pandey1&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 🚀 Major Projects
+
+### 🧠 [YOLO-Based Attendance System](https://github.com/pranjal-pandey1/Object-Detection-Using-Yolo)
+Real-time face recognition attendance system using **YOLOv8**, **OpenCV**, and **Python**.  
+> Detects and marks student attendance automatically using webcam input.
+
+### 🔗 [E-Voting System Using Blockchain](https://github.com/pranjal-pandey1/Blockchain-Voting)
+A secure and decentralized voting application built with **Solidity**, **MetaMask**, and **Ethereum blockchain**.
+
+### 🛒 [E-Commerce Website](https://github.com/pranjal-pandey1/E-commerce-website)
+Frontend project built with **HTML**, **CSS**, and **JavaScript** simulating an online shopping experience.
+
+---
+
+## 🧩 Other Projects & Learning Repositories
+- 🧾 [Web Development Learning](https://github.com/pranjal-pandey1/Web-Development-Learning) — Hands-on projects using Node.js, Express, and MongoDB.  
+- 🧮 [Customer Churn Analysis](https://github.com/pranjal-pandey1/Customer-Churn) — Data analytics project using Jupyter Notebook.  
+- 💬 [Twitter Sentiment Analysis](https://github.com/pranjal-pandey1/Twitter-Sentiment) — NLP project classifying tweets using sentiment categories.  
+- ❤️ [EmoCare Hub](https://github.com/pranjal-pandey1/emoCare-Hub) — Mental health detection and recommendation using ML models.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Java, JavaScript, Python, SQL  
+**Frameworks:** React.js, Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Tools & Platforms:** Git, VS Code, Postman, Jupyter Notebook  
+**Libraries & APIs:** OpenCV, YOLOv8, Pandas, NumPy, TensorFlow  
+
+---
+
+## 📊 GitHub Stats
+
+![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjal-pandey1&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-pandey1&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Let's Connect
+📍 Delhi, India  
+📧 [pranjal.pandey104@gmail.com](mailto:pranjal.pandey104@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/pranjal-pandey-693742316)  
+🐦 [Twitter](https://x.com/pranjalP_)  
+📸 [Instagram](https://instagram.com/pranjal_pandey_)
