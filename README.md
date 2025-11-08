@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me  
 
-I'm a final-year **B.Tech (Information Technology)** student at **Noida Institute of Engineering and Technology**, passionate about using technology to solve real-world problems.  
+**B.Tech (Information Technology)** student at **Noida Institute of Engineering and Technology**, passionate about using technology to solve real-world problems.  
 
 I enjoy learning how systems work — from AI-based automation to full-stack web development.  
 Over the past few years, I’ve built and published projects that combine **machine learning, computer vision, and web technologies** into practical solutions.  
