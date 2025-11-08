@@ -1,88 +1,106 @@
-<h1 align="center">Hi, I'm Pranjal Pandey 👋</h1>
-<h3 align="center">Software Developer | AI & ML Enthusiast | Web Developer</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  Hey there, I'm Pranjal Pandey <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="35px">
+</h1>
 
----
-
-### 👨‍💻 About Me  
-
-**B.Tech (Information Technology)** student at **Noida Institute of Engineering and Technology**, passionate about using technology to solve real-world problems.  
-
-I enjoy learning how systems work — from AI-based automation to full-stack web development.  
-Over the past few years, I’ve built and published projects that combine **machine learning, computer vision, and web technologies** into practical solutions.  
-
-Right now, I’m improving my skills in **AI, Machine Learning, and Full Stack Development (MERN)** while also strengthening my understanding of **Data Structures and Algorithms (DSA)** in Java.
-
----
-
-### 🚀 Featured Projects
-
-#### 🧠 [AI-Powered Attendance Automation (YOLO + OpenCV)](https://github.com/pranjal-pandey1/Object-Detection-Using-Yolo)
-A real-time attendance system using **YOLOv8** and **OpenCV** for automated face recognition.  
-- Uses live webcam/CCTV feed to detect and record attendance automatically.  
-- Published as a **research paper** in the *International Journal of Computer Techniques, Volume 12, Issue 3 (2025).*  
-- **Tech Used:** Python, YOLOv8, OpenCV, SQLite  
-
-#### 🛒 [Responsive E-Commerce Website](https://github.com/pranjal-pandey1/E-commerce-website)
-A simple and responsive frontend shopping website built with **HTML, CSS, and JavaScript**.  
-- Focused on DOM manipulation, responsive design, and user interaction.  
-- Demonstrates practical frontend development concepts.  
-
-#### 🌐 [Web Development Learning Repository](https://github.com/pranjal-pandey1/Web-Development-Learning)
-A collection of small learning projects and experiments built while improving frontend and backend development skills.  
-Includes responsive pages, JavaScript-based UI interactions, and Node.js practice work.
-
----
-
-### 🧰 Skills & Tools
-
-**Languages:**  
-Java • Python • JavaScript • SQL • HTML • CSS  
-
-**Frameworks & Tools:**  
-React.js • Node.js • Express.js • MongoDB • MySQL • Git • VS Code • Jupyter Notebook  
-
-**Core Knowledge:**  
-Object-Oriented Programming (OOP) • Data Structures & Algorithms (DSA) • Computer Vision • Machine Learning Basics  
-
-**Soft Skills:**  
-Communication • Problem Solving • Time Management • Team Collaboration  
-
----
-
-### 🎓 Education
-**Noida Institute of Engineering and Technology, Greater Noida**  
-B.Tech in Information Technology (2021–2025) • CGPA: 7.59  
-
----
-
-### 🧩 Research & Achievements
-- 📝 **Published Paper:** “Real-Time Attendance Marking System Integrates Webcam”  
-  *(International Journal of Computer Techniques, 2025)*  
-- 🏆 Completed **Google Cloud Facilitator Program (2021)**  
-- 💻 Solved **150+ coding problems** on Code360  
-- 💡 Participant at **Hackcog 2023** (IIIT Delhi Hackathon)  
-- 🌐 Volunteer at **New Delhi Youth Summit 2023**
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">
+  💻 Software Developer | 🧠 AI & ML Enthusiast | 🌐 Web Developer
+</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pranjal-pandey1&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal-pandey1&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" alt="coding gif"/>
 </p>
 
 ---
 
-### 🌍 Let's Connect
+### 👨‍💻 About Me <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/plant.gif" width="25px">
+
+I'm a **B.Tech (Hons.) IT** student at **Noida Institute of Engineering and Technology**, passionate about using code to make things simpler, smarter, and scalable.  
+
+💡 I’m deeply interested in how **Artificial Intelligence** can blend with **Web Technologies** to automate everyday systems — whether it’s attendance tracking or digital voting.  
+🌱 Currently diving deeper into **Machine Learning**, **Computer Vision**, and **MERN Stack Development**, while sharpening my **DSA in Java**.  
+
+I’m not just learning to code — I’m learning to create impact. 🚀
+
+---
+
+### 🚀 Featured Projects <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/rocket.gif" width="25px">
+
+#### 🧠 [AI-Powered Attendance Automation (YOLO + OpenCV)](https://github.com/pranjal-pandey1/Object-Detection-Using-Yolo)
+A real-time attendance system that detects and marks attendance using **YOLOv8** and **OpenCV**.  
+- 🧾 Published as a **research paper** in the *International Journal of Computer Techniques (Vol.12, Issue 3 - 2025)*  
+- 📄 [Read Full Publication on Zenodo →](https://zenodo.org/records/15647881)  
+- 🧰 **Tech Stack:** Python, YOLOv8, OpenCV, SQLite  
+
+#### 🔗 [Blockchain Voting System](https://github.com/pranjal-pandey1/Blockchain-Voting)
+A decentralized, transparent e-voting system built with **Solidity** and **MetaMask**, ensuring fairness and security.
+
+#### 🛒 [Responsive E-Commerce Website](https://github.com/pranjal-pandey1/E-commerce-website)
+A responsive and interactive shopping site using **HTML, CSS, JavaScript**.  
+Focuses on clean UI, real-time DOM manipulation, and smooth user experience.
+
+#### 🌐 [Web Development Learning Repository](https://github.com/pranjal-pandey1/Web-Development-Learning)
+A collection of my experiments while learning full-stack development — small projects, components, and reusable modules.
+
+---
+
+### 🧰 Tech Toolbox <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/gear.gif" width="25px">
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | ☕ Java • 🐍 Python • ⚡ JavaScript • 💾 SQL • 🎨 HTML/CSS |
+| **Frameworks & Libraries** | ⚙️ React.js • 🌿 Node.js • 🚀 Express.js • 🍃 MongoDB |
+| **Databases** | 🧩 MySQL • 🪣 SQLite |
+| **Developer Tools** | 🧑‍💻 Git • 💻 VS Code • 🔬 Jupyter Notebook • 🧠 Postman |
+| **Core Concepts** | 🔧 OOP • 🧠 DSA • 🧩 Computer Vision • 🤖 Machine Learning |
+
+---
+
+### 🎓 Education <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/sparkle.gif" width="25px">
+
+**Noida Institute of Engineering and Technology, Greater Noida**  
+🎓 *B.Tech (Hons.) in Information Technology (2021–2025)*  
+📘 CGPA: **7.75 / 10**
+
+---
+
+### 🏆 Research & Achievements
+
+- 📝 **Published Paper:** *Real-Time Attendance Marking System Integrates Webcam*  
+  🔗 [View on Zenodo](https://zenodo.org/records/15647881)  
+- ☁️ **Google Cloud Facilitator Program (2021)** — completed hands-on labs & cloud projects  
+- 💻 Solved **150+ coding problems** on Code360  
+- 💡 Participant at **IIIT Delhi Hackathon — Hackcog 2023**  
+- 🎯 Volunteer at **New Delhi Youth Summit 2023**
+
+---
+
+### 📈 GitHub Highlights <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/graph.gif" width="25px">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pranjal-pandey1&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal-pandey1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-pandey1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Let's Connect <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/handshake.gif" width="30px">
+
 <p align="center">
   <a href="mailto:pranjal.pandey104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pranjal-pandey-693742316"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pranjalpandey1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/pranjal-pandey1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ### ⚡ Quick Note  
-I believe in **learning by building** — every repository here reflects something I’ve explored, fixed, or improved.  
-If you find anything useful or interesting, feel free to connect or collaborate!
+
+I believe great software isn’t just about writing code — it’s about solving problems with clarity and curiosity.  
+Every repository here reflects something I’ve learned, improved, or dreamed to build.  
+
+✨ *Thanks for stopping by — feel free to explore, fork, or reach out!*  
